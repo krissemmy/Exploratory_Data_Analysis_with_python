@@ -20,4 +20,4 @@ matplotlib
 
 A notebook containing cells of python code
 
-The dataset in a csv format stored on [AWS S3 bucket](s3://github-data-bucket/USA_flights_data.csv.bz2)
+The dataset in a csv format stored on [AWS s3 bucket](https://github-data-bucket.s3.amazonaws.com/USA_flights_data.csv.bz2).
